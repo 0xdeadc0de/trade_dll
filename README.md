@@ -2,6 +2,11 @@ Stronghold Crusader Auto Market and Auto Unit Trainer
 -----------------------------------------------------
 ![image.png](autoTrade.png)
 
+FAQ:
+- This is not a cheat tool! Don't ask.
+- Only works in single player games. Doesn't work on multiplayer.
+- Use it on your own risk. Save your game/progress before attempting to run this tool.
+
 How to:
 - Make sure you compile for 32-bit (x86) setting in Visual Studio
 - Place dll near injector.exe and run exe as administrator
