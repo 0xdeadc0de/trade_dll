@@ -39,7 +39,4 @@ Donate
 0xC92397C5ec0e892C63aEA7e980652E5F11040B96
 ## SOLANA (best!)
 6Bi6c7cpgAV6bdBp2c2VjrMLADsBWmb8zDHAKaDm41dS
-## Other
-<a href="https://www.buymeacoffee.com/risitas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> \
-![QR code](bmc_qr.png)
 
