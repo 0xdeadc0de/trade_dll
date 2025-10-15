@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/risitas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 Stronghold Crusader Auto Market and Auto Unit Trainer
 -----------------------------------------------------
 ![image.png](autoTrade.png)
@@ -35,4 +33,13 @@ SHA256: 9a675be85b7c012f21188b19fdf73359aa36729a79b91b42e819485d0cda9988
 SHA1: cb9abdfb64fa172320c6c86625a48bb592890803
 BLAKE2sp: 0fc17bdeb711920de20a477c8ec8faac7579a0e3f86c6b8d7177676c94d680d0
 
+Donate
+======
+## Multisig Etherium
+0xC92397C5ec0e892C63aEA7e980652E5F11040B96
+## SOLANA (best!)
+6Bi6c7cpgAV6bdBp2c2VjrMLADsBWmb8zDHAKaDm41dS
+## Other
+<a href="https://www.buymeacoffee.com/risitas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> \
 ![QR code](bmc_qr.png)
+
